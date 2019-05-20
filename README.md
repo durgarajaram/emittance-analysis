@@ -1,4 +1,10 @@
 
+https://doi.org/10.18429/JACoW-IPAC2018-TUPML065
+
+https://doi.org/10.1140/epjc/s10052-019-6674-y 
+
+----------------------
+
 CR emittance analysis
 
 Quick start:
