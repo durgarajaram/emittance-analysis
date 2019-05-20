@@ -1,8 +1,7 @@
 
 CR emittance analysis
 
-Quick start
-===========
+Quick start:
 
 The basic execution of the analysis is done by a command like:
 
@@ -32,7 +31,7 @@ Amplitude, kNN, fractional emittance analysis scripts are in scripts/mice-analys
 Some stat utils and helpers in scripts/utilities subdir
 
 
-Requires
-=====
+Requires:
+
 MAUS, ROOT
 
